@@ -1,6 +1,9 @@
 body{
-    text-align: center;
+    
     background-image: url(images/falling-feathers-o.gif);
     background-repeat: no-repeat;
     background-size: 160%;
+}
+h1, h2{
+    text-align: center
 }
