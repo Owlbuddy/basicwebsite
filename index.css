@@ -1,9 +1,10 @@
-body{
-    
-    background-image: url(images/falling-feathers-o.gif);
-    background-repeat: no-repeat;
-    background-size: 160%;
+body {
+    top:0px;
+
+
+
 }
-h1, h2 {
-    text-align: center
-}
+
+img {border:none;}
+
+div img {border:none;}
