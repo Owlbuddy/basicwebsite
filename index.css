@@ -6,9 +6,9 @@
 }*/
 
 body {
-    background-image: url(images/forest_tile.jpg);
+    background-image: url(images/bx1.png);
     background-repeat: repeat;
-    background-size: 160%;
+    background-size: 50%;
 }
 
 h1,
@@ -17,7 +17,7 @@ h2 {
 }
 
 div {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, .5);
 }
 
 .center {
